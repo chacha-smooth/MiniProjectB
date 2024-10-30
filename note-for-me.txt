@@ -1,0 +1,8 @@
+Things I need to to:
+
+
+1) Start making text responsive
+
+
+
+--fs-xl:
